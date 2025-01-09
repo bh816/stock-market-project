@@ -50,4 +50,5 @@ if company:
             st.plotly_chart(fig)
 
     else:
+    
         st.error("Company Name not found")
